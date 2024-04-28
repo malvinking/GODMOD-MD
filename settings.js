@@ -6,8 +6,8 @@ function convertToBool(text, fault = 'true') {
 global.email = 'vajirarathnayaka891@gmail.com'
 global.github = 'https://github.com/VajirTech/VAJIRA-MD'
 global.location = 'Srilanka Colombo'
-global.packname = '𝚜𝚝𝚒𝚌𝚔𝚎𝚛 𝚋𝚢';
-global.author = '𝙑𝘼𝙅𝙄𝙍𝘼 𝙈𝘿';
+global.packname = '𝗠𝗔𝗗𝗘 𝗕𝗬 [𝗝𝗘𝗘𝗥𝗬]';
+global.author = '𝗧𝗛𝗘 𝗝𝗘𝗥𝗥𝗬';
 global.mess = {
     banned: '`You are *Banned* fron using commands!`',
     bangc: '`This Group is *Banned* from using Commands!`',
