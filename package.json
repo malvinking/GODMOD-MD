@@ -68,6 +68,7 @@
 "xfarr-api": "^1.0.2",
 "google-it": "^1.6.2",
 "g-i-s": "^2.1.6",
+"discord-xp": "^1.1.16",    
 "qrcode-terminal": "^0.12.0"
 }
 }
