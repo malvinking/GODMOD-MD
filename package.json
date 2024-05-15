@@ -8,7 +8,7 @@
 "stash": "git stash && git stash drop"
 },
 "dependencies": {
-"@whiskeysockets/baileys": "^6.5.0",  
+"@whiskeysockets/baileys": "git+https://github.com/prabathLK/Baileys.git#master",   
 "@adiwajshing/keyed-db": "^0.2.4",
 "@shineiichijo/marika": "^2.0.2",  
 "pino": "^7.0.5",
