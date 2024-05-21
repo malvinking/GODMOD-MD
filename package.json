@@ -8,7 +8,7 @@
 "stash": "git stash && git stash drop"
 },
 "dependencies": {
-"@whiskeysockets/baileys": "git+https://github.com/prabathLK/Baileys.git#master",   
+"@whiskeysockets/baileys": "npm:baileys-wa@10.0.0",
 "@adiwajshing/keyed-db": "^0.2.4",
 "@shineiichijo/marika": "^2.0.2",  
 "pino": "^7.0.5",
@@ -21,7 +21,11 @@
 "removebg-wrapper": "^1.0.3",
 "awesome-phonenumber": "^2.64.0",
 "express": "latest",
-"sirasa-news": "latest",   
+"sirasa-news": "latest",  
+"wabetainfo": "latest",
+"@sl-code-lords/esana-news": "latest",
+"@sl-code-lords/wabetainfo": "latest",
+"@kaveesha-sithum/derana-news": "latest",
 "tech-news-scraper": "latest",
 "hirunews-scrap": "latest",   
 "@sl-code-lords/github-db": "^1.1.0",
@@ -31,9 +35,6 @@
 "@sl-code-lords/text-pro-me": "^1.0.0",
 "@sl-code-lords/photooxy": "^1.0.1",
 "@sl-code-lords/image-library": "^1.0.0",
-"@sl-code-lords/esana-news": "latest",
-"@sl-code-lords/wabetainfo": "latest",
-"@kaveesha-sithum/derana-news": "latest", 
 "@blackamda/telegram-image-url": "^1.0.0",
 "translate-google-api": "^1.0.4",
 "javascript-obfuscator": "^4.0.0",
@@ -68,7 +69,7 @@
 "xfarr-api": "^1.0.2",
 "google-it": "^1.6.2",
 "g-i-s": "^2.1.6",
-"discord-xp": "^1.1.16",    
+"discord-xp": "^1.1.16",  
 "qrcode-terminal": "^0.12.0"
 }
 }
