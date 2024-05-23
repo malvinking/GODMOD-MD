@@ -1,6 +1,6 @@
 {
 "name": "VAJIRA-MD",    
-"version": "1.0.0",
+"version": "2.0.6",
 "scripts": {
 "start": "pm2 start index.js --deep-monitoring --attach --name VAJIRA-MD",
 "stop": "pm2 stop VAJIRA-MD",
@@ -8,7 +8,7 @@
 "stash": "git stash && git stash drop"
 },
 "dependencies": {
-"@whiskeysockets/baileys": "npm:baileys-wa@10.0.0",
+"@whiskeysockets/baileys": "6.6.0",             
 "@adiwajshing/keyed-db": "^0.2.4",
 "@shineiichijo/marika": "^2.0.2",  
 "pino": "^7.0.5",
