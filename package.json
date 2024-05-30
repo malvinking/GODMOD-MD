@@ -12,7 +12,7 @@
 "@adiwajshing/keyed-db": "^0.2.4",
 "@shineiichijo/marika": "^2.0.2",  
 "pino": "^7.0.5",
-"pm2": "^5.2.0",
+"pm2": "^5.4.0",
 "@ffmpeg-installer/ffmpeg": "^1.1.0",
 "os": "^0.1.2",
 "util": "^0.12.4",
