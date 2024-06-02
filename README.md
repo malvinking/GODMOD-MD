@@ -2,6 +2,7 @@
      
  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=F01&lines=ＶＡＪＩＲＡ+ＭＤ+ＷＨＡＴＳＡＰＰ+ＢＯＴ)](https://git.io/typing-svg)
 
+## 𝗔𝗟𝗟 𝗘𝗥𝗥𝗢𝗥 𝗙𝗜𝗫𝗘𝗗 𝗩5 𝗖𝗢𝗠𝗠𝗜𝗡𝗚 𝗦𝗢𝗢𝗡 😍
   
 <div align="center">
 </p
