@@ -6,8 +6,8 @@ function convertToBool(text, fault = 'true') {
 global.email = 'vajirarathnayaka891@gmail.com'
 global.github = 'https://github.com/VajirTech/VAJIRA-MD'
 global.location = 'Srilanka Colombo'
-global.packname = '𝚜𝚝𝚒𝚌𝚔𝚎𝚛 𝚋𝚢';
-global.author = '𝙑𝘼𝙅𝙄𝙍𝘼 𝙈𝘿';
+global.packname = '𝚜𝚝𝚒𝚌𝚔𝚎𝚛 𝚋𝚢 𝚍𝚒𝚍𝚞';
+global.author = '𝗗𝗜𝗗𝗨𝗨 𝗠𝗗';
 global.mess = {
     banned: '`You are *Banned* fron using commands!`',
     bangc: '`This Group is *Banned* from using Commands!`',
@@ -22,7 +22,7 @@ global.mess = {
     endLimit: '`Your daily limit has expired, the limit will be reset every 12 hours`',
 }
 
-global.owner = [process.env.OWNER_NUMBER] || ['94711453097'] // Owner number , (අයිතිකරුගේ නම්බර් එක )
+global.owner = [process.env.OWNER_NUMBER] || ['94740802214'] // Owner number , (අයිතිකරුගේ නම්බර් එක )
 
 module.exports = {    
 SESSION_ID: process.env.SESSION_ID || 'youre session id',
@@ -30,16 +30,16 @@ POSTGRESQL_URL: process.env.POSTGRESQL_URL || 'postgres://izumimd_meje_user:0Vhm
 PREFIX:  process.env.PREFIX || ['.'] ,
 LANG:  process.env.LANG || 'SI' ,    
 ANTI_BAD: process.env.ANTI_BAD || false  ,
-AUTO_REACT:  process.env.AUTO_REACT  || false  ,    
-AUTO_TYPING:  process.env.AUTO_TYPING  || false  ,
-AUTO_RECORDING:  process.env.AUTO_RECORDING  || false  ,
+AUTO_REACT:  process.env.AUTO_REACT  || true  ,    
+AUTO_TYPING:  process.env.AUTO_TYPING  || true  ,
+AUTO_RECORDING:  process.env.AUTO_RECORDING  || true  ,
 AUTO_READ:  process.env.AUTO_READ  || false  ,
 AUTO_BIO:  process.env.AUTO_BIO  || false  ,    
-ALWAYS_ONLINE:  process.env.ALWAYS_ONLINE  || false  ,            
-WORK_TYPE: process.env.WORK_TYPE || 'private'  ,
+ALWAYS_ONLINE:  process.env.ALWAYS_ONLINE  || true  ,            
+WORK_TYPE: process.env.WORK_TYPE || 'public'  ,
 ANTI_LINK: process.env.ANTI_LINK || false  ,
 ANTI_BOT: process.env.ANTI_BOT || false  ,
-OWNER_NUMBER: process.env.OWNER_NUMBER || '94719199757'  ,    
+OWNER_NUMBER: process.env.OWNER_NUMBER || '94740802214'  ,    
 ALIVE: process.env.ALIVE || `default`,
 OWNER_NAME: process.env.OWNER_NAME || 'Vajira' ,     
 AUTO_STATUS_READ:  process.env.AUTO_STATUS_READ  || false  ,    
