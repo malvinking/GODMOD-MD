@@ -7,7 +7,7 @@ global.email = 'vajirarathnayaka891@gmail.com'
 global.github = 'https://github.com/VajirTech/VAJIRA-MD'
 global.location = 'Srilanka Colombo'
 global.packname = '𝚜𝚝𝚒𝚌𝚔𝚎𝚛 𝚋𝚢';
-global.author = '𝙑𝘼𝙅𝙄𝙍𝘼 𝙈𝘿';
+global.author = 'DELBOY MD';
 global.mess = {
     banned: '`You are *Banned* fron using commands!`',
     bangc: '`This Group is *Banned* from using Commands!`',
@@ -22,27 +22,27 @@ global.mess = {
     endLimit: '`Your daily limit has expired, the limit will be reset every 12 hours`',
 }
 
-global.owner = [process.env.OWNER_NUMBER] || ['94711453097'] // Owner number , (අයිතිකරුගේ නම්බර් එක )
+global.owner = [process.env.OWNER_NUMBER] || ["254 773 440758"] // 254 773 440758 , (අයිතිකරුගේ නම්බර් එක )
 
 module.exports = {    
-SESSION_ID: process.env.SESSION_ID || 'youre session id',
+SESSION_ID: process.env.SESSION_ID || 'VAJIRA-MD=rR1DCAjI#ROG8wncoaCOOQZQW4gmw1xR3zYDe3rqbJPr-mdDdfTk',
 POSTGRESQL_URL: process.env.POSTGRESQL_URL || 'postgres://izumimd_meje_user:0Vhm5vKGZ7ORt2FlJBQf4d6EtRdeuE8z@dpg-cn0o2imn7f5s73fa46q0-a.frankfurt-postgres.render.com/izumimd_meje',
 PREFIX:  process.env.PREFIX || ['.'] ,
 LANG:  process.env.LANG || 'SI' ,    
 ANTI_BAD: process.env.ANTI_BAD || false  ,
-AUTO_REACT:  process.env.AUTO_REACT  || false  ,    
-AUTO_TYPING:  process.env.AUTO_TYPING  || false  ,
+AUTO_REACT:  process.env.AUTO_REACT  || yes  ,    
+AUTO_TYPING:  process.env.AUTO_TYPING  || yes ,
 AUTO_RECORDING:  process.env.AUTO_RECORDING  || false  ,
-AUTO_READ:  process.env.AUTO_READ  || false  ,
+AUTO_READ:  process.env.AUTO_READ  || true ,
 AUTO_BIO:  process.env.AUTO_BIO  || false  ,    
-ALWAYS_ONLINE:  process.env.ALWAYS_ONLINE  || false  ,            
-WORK_TYPE: process.env.WORK_TYPE || 'private'  ,
-ANTI_LINK: process.env.ANTI_LINK || false  ,
+ALWAYS_ONLINE:  process.env.ALWAYS_ONLINE  || true  ,            
+WORK_TYPE: process.env.WORK_TYPE || 'public'  ,
+ANTI_LINK: process.env.ANTI_LINK || true  ,
 ANTI_BOT: process.env.ANTI_BOT || false  ,
-OWNER_NUMBER: process.env.OWNER_NUMBER || '94719199757'  ,    
+OWNER_NUMBER: process.env.OWNER_NUMBER || "254 773 440758" ,    
 ALIVE: process.env.ALIVE || `default`,
-OWNER_NAME: process.env.OWNER_NAME || 'Vajira' ,     
-AUTO_STATUS_READ:  process.env.AUTO_STATUS_READ  || false  ,    
+OWNER_NAME: process.env.OWNER_NAME || 'DELBOY ANIEY' ,     
+AUTO_STATUS_READ:  process.env.AUTO_STATUS_READ  || true  ,    
 AUTO_VOICE:  process.env.AUTO_VOICE  || false  ,
 AUTO_STICKER: process.env.AUTO_STICKER || false  ,
 WELCOME:  process.env.WELCOME  || false ,    
