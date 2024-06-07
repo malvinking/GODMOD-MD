@@ -57,7 +57,7 @@
 
 ## DEPLOYMENT METHODS
 
-[CLICK TO SELECT DEPLOY PLATFORM](https://vajirarathnayaka.github.io/QUEEN-IZUMI-WEB/assets/deployments.html)
+[CLICK TO SELECT DEPLOY PLATFORM](https://vajiratech.github.io/VAJIRA-DEPLOY/QUEEN-IZUMI-WEB-main/projects/deployment.html)
 
 <hr>
 
