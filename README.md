@@ -2,7 +2,6 @@
      
  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=F01&lines=ＶＡＪＩＲＡ+ＭＤ+ＷＨＡＴＳＡＰＰ+ＢＯＴ)](https://git.io/typing-svg)
 
-## 𝗔𝗟𝗟 𝗘𝗥𝗥𝗢𝗥 𝗙𝗜𝗫𝗘𝗗 𝗩5 𝗖𝗢𝗠𝗠𝗜𝗡𝗚 𝗦𝗢𝗢𝗡 😍
   
 <div align="center">
 </p
@@ -13,17 +12,12 @@
 
 <p align="center">
 <a href="https://github.com/VajiraTech">
-    <img src="https://telegra.ph/file/03f1eccdcb525a5e1a6ad.jpg"  width="700px">
+    <img src="https://telegra.ph/file/235d945df230d71f246b6.jpg"  width="700px">
 </a>
 <hr>
 
 <hr>
 
-## Dont use more than 1 bug commands then your whatsapp will banned avoid from bug commands
-
-## Bot deploy in whatsapp biussness then not banned
-
-## Try Pairing code in to device then not comes session error https://wa.me/94719199757
 
 <b><details><summary>𝗦𝗢𝗖𝗜𝗔𝗟 𝗧𝗬𝗣𝗘𝗦</summary><br>
 
@@ -35,10 +29,6 @@
 
 [![vajira](https://telegra.ph/file/99460844d012cad1b7ee4.jpg)](https://chat.whatsapp.com/D6w6Qy5yrhp7MmfNcprbO3)
 
-## MY WA CHANNEL
-
-[![vajira](https://telegra.ph/file/99460844d012cad1b7ee4.jpg)](https://whatsapp.com/channel/0029VadExMQHwXb9GtsC1A24)
-
 ## MY YT CHANNEL
 
 [![Youtube](https://telegra.ph/file/eebe86c26e98ffeae39ea.jpg)](https://youtube.com/@gamingewingyt6216) 
@@ -47,7 +37,7 @@
 
 ***Click [FORK](https://github.com/VajiraTech/VAJIRA-MD-fork)***
 
-***Click [My web](https://vajiratech.github.io/QUEEN-IZUMI-WEB/)***
+***Click [My web](https://vajira-api-7967fdc132a8.herokuapp.com/)***
 
 <hr>
 
@@ -55,12 +45,10 @@
 
 ## DEPLOY BY SESSION ID or creds.json (Qr code)
 
-<a href="https://pairing1-9450d1f488c5.herokuapp.com/"><img src="https://i.ibb.co/FWSfNmb/scan-qr-zusyco-btn.png" alt="QR-CODE 1" border="2" width="170" height="40" ></a>
+<a href="https://vajira-paircode-f5d762364f53.herokuapp.com/"><img src="https://i.ibb.co/FWSfNmb/scan-qr-zusyco-btn.png" alt="QR-CODE 1" border="2" width="170" height="40" ></a>
 
 
-***Wait few minutes to open qr 👇***
-
-<a href="https://paircode2-2034df265851.herokuapp.com/"><img src="https://i.ibb.co/FWSfNmb/scan-qr-zusyco-btn.png" alt="QR-CODE 1" border="2" width="170" height="40" ></a>
+<a href="https://vajira-pairing.onrender.com/"><img src="https://i.ibb.co/FWSfNmb/scan-qr-zusyco-btn.png" alt="QR-CODE 1" border="2" width="170" height="40" ></a>
 
 
 <hr>
@@ -69,7 +57,7 @@
 
 ## DEPLOYMENT METHODS
 
-[CLICK TO SELECT DEPLOY PLATFORM](https://vajiratech.github.io/VAJIRA-DEPLOY/QUEEN-IZUMI-WEB-main/projects/deployment.html)
+[CLICK TO SELECT DEPLOY PLATFORM](https://vajirarathnayaka.github.io/QUEEN-IZUMI-WEB/assets/deployments.html)
 
 <hr>
 
@@ -83,7 +71,7 @@ Voice helper  | Developer, Bug Fixes, Modules |Developer,Bug Fixes,Base, Modules
 
 <hr>
 
-## HOW TO DEPLOY 👨‍💻 ＶＡＪＩＲＡ - ＭＤ - Ｖ4 👨‍💻
+## HOW TO DEPLOY 🧚 VAJIRA - ＭＤ 🧚
 
 </div>
 
