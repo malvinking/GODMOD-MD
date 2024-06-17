@@ -1,6 +1,6 @@
 <div align="center">
      
- [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=F01&lines=ＶＡＪＩＲＡ+ＭＤ+ＷＨＡＴＳＡＰＰ+ＢＯＴ)](https://git.io/typing-svg)
+ [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=F01&lines=ＤＩＬＳＨＡＮ+ＭＤ+ＷＨＡＴＳＡＰＰ+ＢＯＴ)](https://git.io/typing-svg)
 
   
 <div align="center">
@@ -29,11 +29,11 @@
 
 ## CONTACT OWNER
 
-[![vajira](https://telegra.ph/file/99460844d012cad1b7ee4.jpg)](https://wa.me/94719199757)
+[![꧁🇩‌🇮‌🇱‌🇸‌🇭‌🇦‌🇳‌꧂](https://telegra.ph/file/0c19191cd7ea51b36b2f4.jpg)](https://wa.me/94758102825)
 
 ## JOIN SUPPORT GROUP
 
-[![vajira](https://telegra.ph/file/99460844d012cad1b7ee4.jpg)](https://chat.whatsapp.com/D6w6Qy5yrhp7MmfNcprbO3)
+[!꧁🇩‌🇮‌🇱‌🇸‌🇭‌🇦‌🇳‌꧂](https://telegra.ph/file/0c19191cd7ea51b36b2f4.jpg)](https://chat.whatsapp.com/D6w6Qy5yrhp7MmfNcprbO3)
 
 ## MY YT CHANNEL
 
@@ -41,7 +41,7 @@
 
 </details>
 
-***Click [FORK](https://github.com/VajiraTech/VAJIRA-MD-fork)***
+***Click [FORK](https://github.com/𝘋𝘐𝘓𝘚𝘏𝘈𝘕/𝘋𝘐𝘓𝘚𝘏𝘈𝘕-MD-fork)***
 
 ***Click [My web](https://vajira-api-7967fdc132a8.herokuapp.com/)***
 
@@ -72,7 +72,7 @@
 
 
 
-## HOW TO DEPLOY 🧚 VAJIRA - ＭＤ 🧚
+## HOW TO DEPLOY 🧚 𝙳𝙸𝙻𝚂𝙷𝙰𝙽 - ＭＤ 🧚
 
 </div>
 
