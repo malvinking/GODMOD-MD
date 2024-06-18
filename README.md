@@ -1,6 +1,6 @@
 <div align="center">
      
- [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=F01&lines=ＶＡＪＩＲＡ+ＭＤ+ＷＨＡＴＳＡＰＰ+ＢＯＴ)](https://git.io/typing-svg)
+ [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=F01&lines=GODMOD+ＭＤ+ＷＨＡＴＳＡＰＰ+ＢＯＴ)](https://git.io/typing-svg)
 
   
 <div align="center">
@@ -11,7 +11,7 @@
 <hr>
 
 <p align="center">
-<a href="https://github.com/VajiraTech">
+<a href="https://github.com/malvinking">
     <img src="https://telegra.ph/file/235d945df230d71f246b6.jpg"  width="700px">
 </a>
 <hr>
@@ -21,7 +21,7 @@
 
 ## JOIN MY WHATSAPP CHANNEL
 
-[![vajira](https://telegra.ph/file/99460844d012cad1b7ee4.jpg)](https://whatsapp.com/channel/0029VahMZasD8SE5GRwzqn3Z)
+[![vajira](https://telegra.ph/file/99460844d012cad1b7ee4.jpg)](https://whatsapp.com/channel/0029Vac8SosLY6d7CAFndv3Z)
 
 
 
@@ -29,19 +29,19 @@
 
 ## CONTACT OWNER
 
-[![vajira](https://telegra.ph/file/99460844d012cad1b7ee4.jpg)](https://wa.me/94719199757)
+[![Godmod](https://telegra.ph/file/99460844d012cad1b7ee4.jpg)](https://wa.me/263780166288)
 
 ## JOIN SUPPORT GROUP
 
-[![vajira](https://telegra.ph/file/99460844d012cad1b7ee4.jpg)](https://chat.whatsapp.com/D6w6Qy5yrhp7MmfNcprbO3)
+[![GODMOD](https://telegra.ph/file/99460844d012cad1b7ee4.jpg)](https://whatsapp.com/channel/0029Vac8SosLY6d7CAFndv3Z)
 
 ## MY YT CHANNEL
 
-[![Youtube](https://telegra.ph/file/eebe86c26e98ffeae39ea.jpg)](https://youtube.com/@gamingewingyt6216) 
+[![Youtube](https://telegra.ph/file/eebe86c26e98ffeae39ea.jpg)](https://youtube.com/@speedtechi) 
 
 </details>
 
-***Click [FORK](https://github.com/VajiraTech/VAJIRA-MD-fork)***
+***Click [FORK](https://github.com/malvinking/GODMOD-MD-fork)***
 
 ***Click [My web](https://vajira-api-7967fdc132a8.herokuapp.com/)***
 
@@ -64,7 +64,7 @@
 
 ## DEPLOYMENT METHODS
 
-[CLICK TO SELECT DEPLOY PLATFORM](https://vajiratech.github.io/VAJIRA-DEPLOY/QUEEN-IZUMI-WEB-main/projects/deployment.html)
+[CLICK TO SELECT DEPLOY PLATFORM](https://malvinking.github.io/GODMOD-DEPLOY/QUEEN-IZUMI-WEB-main/projects/deployment.html)
 
 <hr>
 
@@ -72,7 +72,7 @@
 
 
 
-## HOW TO DEPLOY 🧚 VAJIRA - ＭＤ 🧚
+## HOW TO DEPLOY 🧚 GODMOD - ＭＤ 🧚
 
 </div>
 
@@ -81,4 +81,4 @@
 3) 𝙰𝙽𝙳 𝙼𝙰𝙺𝙴 𝙽𝙴𝚆𝚂 𝙷𝙴𝚁𝙾𝙺𝚄 𝙰𝙿𝙿.
 4) 𝙰𝙽𝙳 𝚂𝙴𝙻𝙴𝙲𝚃 𝙵𝙾𝚁𝙺 𝚁𝙴𝙿𝙸 𝙰𝙽𝙳 𝙳𝙴𝙿𝙻𝙾𝚈 𝚃𝙷𝙴 𝙱𝙾𝚃.
 5) 𝙿𝚄𝚃 𝙳𝚈𝙽𝙾 𝚃𝙾 𝙿𝚁𝙾𝙵𝙴𝚂𝚂𝙸𝙾𝙽𝙰𝙻 𝙰𝙽𝙳 𝙿𝚄𝚃 𝙸𝚃 2𝚡.
-6) 𝙽𝙾𝚆 𝙴𝙽𝙹𝙾𝚈 𝚃𝙷𝙴 𝚀𝚄𝙴𝙴𝙽 𝙸𝚉𝚄𝙼𝙸 𝙼𝙳 𝙱𝙾𝚃.
+6) 𝙽𝙾𝚆 𝙴𝙽𝙹𝙾𝚈 𝚃𝙷𝙴  GODMOD 𝙼𝙳 𝙱𝙾𝚃.
